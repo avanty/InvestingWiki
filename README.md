@@ -1,0 +1,2 @@
+# InvestingWiki
+Investing wiki
